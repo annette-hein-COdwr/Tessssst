@@ -9,10 +9,10 @@ I owe my soul to the company store
 
 ...well, they want me to add boring stuff now 
 
-##Contents##
+## Contents
 
 uh...
 
-##Maintainer##
+## Maintainer
 
 There is a little man, as quiet as a mouse, who does the mischief that is done in everybody's house...
